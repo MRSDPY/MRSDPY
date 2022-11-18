@@ -10,7 +10,7 @@
 - 📝 My projects are regularly updated on [https://twitter.com/HitSquare](https://twitter.com/HitSquare)
 
 ## 🌐 Socials:
-![Website](https://img.shields.io/website?up_message=Hit%20Square&url=https%3A%2F%2Fhitsquare.studio%2F)
+[![Website](https://img.shields.io/website?up_message=Hit%20Square&url=https%3A%2F%2Fhitsquare.studio%2F)](https://hitsquare.studio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-dankhara-16419a162) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hitsquare) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hitsquare) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4kvjyPtnzw) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HitSquareStudio) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_m_r_._s_d_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCLg_qGAys5lqH69M5Bbt0sg) 
 
