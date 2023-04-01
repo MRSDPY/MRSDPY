@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hitsquare" target="blank"><img src="https://img.shields.io/twitter/follow/hitsquare?logo=twitter&style=for-the-badge" alt="hitsquare" /></a> </p>
 
-- 🔭 I’m currently working on [Two Guys](https://hitsquare.studio/portfolio-item/two-guys/)
+- 🔭 I’m currently working on [Pray](https://hitsquare.studio/portfolio-item/pray-the-horror-game/)
 
 - 🌱 I’m currently learning **Unity, Unity ML**
 
